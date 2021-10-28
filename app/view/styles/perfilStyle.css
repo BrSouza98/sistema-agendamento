@@ -1,0 +1,11 @@
+.dia:hover {
+  background-color: #3bf8e8 !important;
+}
+
+html .body-background {
+  background-color: #4a5c61;
+}
+
+html .main-100-vh {
+  height: 90vh;
+}

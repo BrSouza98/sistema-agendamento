@@ -1,0 +1,15 @@
+.dia {
+    &:hover {
+        background-color: rgb(59, 248, 232) !important;
+    }
+}
+
+html {
+    .body-background {
+        background-color: rgb(74, 92, 97);
+    }
+
+    .main-100-vh{
+        height: 90vh;
+    }
+}

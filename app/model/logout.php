@@ -1,0 +1,11 @@
+<?php
+
+function deslogar(){
+    session_start();
+    session_destroy();
+    header("Location: ../../index.php");
+    exit;
+
+}
+
+deslogar();
